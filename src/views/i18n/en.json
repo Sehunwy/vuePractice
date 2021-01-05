@@ -1,0 +1,14 @@
+{
+    "m": {
+        "Getcaptcha": "Get captcha",
+        "ChangePassword": "Change Password",
+        "phonenumber": "phone number",
+        "VerificationCode": "Verification Code",
+        "Sendverificationcode": "Send verification code",
+        "nextstep": "next step",
+        "return": "return",
+        "Newpassword": "New password",
+        "Confirmnewpassword": "Confirm new password",
+        "determine": "determine"
+    }
+}
